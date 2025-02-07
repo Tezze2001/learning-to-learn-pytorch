@@ -1,0 +1,5 @@
+_cache/*
+results/*
+./**/__pycache__/*
+mnist/*
+other/
